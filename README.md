@@ -27,3 +27,18 @@ Para rastrear alterações em arquivos dentro do repositório
 7º Comando: git log
 Para visualizar as alterações.
 
+8º Etapa e comandos: git remote add origin git@github.com:[endereço].git
+Depois de criar o repositório remoto, precisamos fazer a ligação com o repositório local. 
+
+9º Comando: git remote –v
+Para visualizar o repositório remoto
+
+10º Comando: git pull
+Para baixar a alteração no repositório remoto
+
+10º Comando: git push -u origin master
+Publicar as alterações no repositório remoto, e no repositório remoto, vamos autorizar o usuário.
+
+Depois, vamos verificar se todas as etapas foram completadas corretamente, então, devemos:
+ -> no repositório local: visualizar a autenticação de usuário feita no repositório remoto;
+ -> no repositório remoto: visualizar a publicação feita.
