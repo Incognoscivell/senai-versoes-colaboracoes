@@ -31,7 +31,7 @@ Para rastrear alterações em arquivos dentro do repositório
 
 
 7º Comando: git log
-Para visualizar as alterações.
+Para visualizar as alterações através dos commits.
 
 
 8º Etapa e comandos: git remote add origin git@github.com:[endereço].git
