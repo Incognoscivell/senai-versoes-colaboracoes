@@ -3,6 +3,8 @@ Repositório de versões e colaborações
 
 Readme de exemplo
 
+lembrei do comando: git commit
+
 ![image](https://user-images.githubusercontent.com/90740731/175144118-e5f7dda9-533e-4dde-b5e6-45da93020f29.png)
 
 Comandos realizados:
