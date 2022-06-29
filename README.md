@@ -1,6 +1,8 @@
 # senai-versoes-colaboracoes
 Repositório de versões e colaborações
 
+lembrei do comando: git status
+
 Readme de exemplo
 
 ![image](https://user-images.githubusercontent.com/90740731/175144118-e5f7dda9-533e-4dde-b5e6-45da93020f29.png)
